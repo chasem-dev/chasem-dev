@@ -35,6 +35,8 @@ A multiplayer Kart racing game inspired by Mario Kart, built with the Godot Engi
 
 ## 📊 GitHub Stats
 
+![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chasem-dev&theme=tokyonight)
+
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=chasem-dev&theme=onedark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chasem-dev&layout=compact&theme=radical)
