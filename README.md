@@ -6,6 +6,8 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=chasem-dev&color=brightgreen)
 
+![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chasem-dev&theme=tokyonight)
+
 ---
 
 ## 🚀 About Me
@@ -34,8 +36,6 @@ A multiplayer Kart racing game inspired by Mario Kart, built with the Godot Engi
 ---
 
 ## 📊 GitHub Stats
-
-![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chasem-dev&theme=tokyonight)
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=chasem-dev&theme=onedark)
 
