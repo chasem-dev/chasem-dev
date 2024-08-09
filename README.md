@@ -23,8 +23,8 @@ A personal AI companion providing comfort through human-like conversations.
 ### [Tunnels.gg](https://tunnels.gg)
 A Discord bot for creating private or public connections between servers.
 
-### [Inventories.gg](https://inventories.chasem.dev)
-A Minecraft inventory viewer for displaying player inventories.
+### [Hashmap.me](https://hashmap.me)
+a minimalist API-driven solution that seamlessly connects your applications to MongoDB collections without the setup hassle. Store, access, and manage your data via simple HTTP requests, backed by the power of automation and scalability.
 
 ### [Godot Kart](https://www.youtube.com/watch?v=example)
 A multiplayer Kart racing game inspired by Mario Kart, built with the Godot Engine.
