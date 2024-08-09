@@ -4,6 +4,8 @@
 
 🛠 **Tech Stack:** TypeScript, React, NextJS, Docker, Kubernetes, Java, SpringBoot, and more!
 
+![Profile Views](https://komarev.com/ghpvc/?username=chasem-dev&color=brightgreen)
+
 ---
 
 ## 🚀 About Me
@@ -32,8 +34,6 @@ A multiplayer Kart racing game inspired by Mario Kart, built with the Godot Engi
 ---
 
 ## 📊 GitHub Stats
-
-![Chase's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chasem-dev&show_icons=true&theme=radical)
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=chasem-dev&theme=onedark)
 
