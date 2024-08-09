@@ -1,9 +1,7 @@
 # 👋 Hi, I'm Chase!
 
-🎯 An experienced Software Engineer who thrives in ambiguity, driven by hard work, great companionship, and a passion for building impactful technology.
-
 🌍 **Website:** [chasem.dev](https://chasem.dev)
-💼 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/chase-myers)
+
 🛠 **Tech Stack:** TypeScript, React, NextJS, Docker, Kubernetes, Java, SpringBoot, and more!
 
 ---
@@ -43,7 +41,7 @@ A multiplayer Kart racing game inspired by Mario Kart, built with the Godot Engi
 
 ## 📬 Get in Touch
 
-- 📨 [Email Me](mailto:your.email@domain.com)
+- 📨 [Email Me](mailto:github@chasem.dev)
 - 💬 [Let's Connect on LinkedIn](https://www.linkedin.com/in/chase-myers)
 
 ---
