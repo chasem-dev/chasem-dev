@@ -13,13 +13,16 @@
 ## 🚀 About Me
 
 - 💻 Currently, I'm working as a Software Engineer at **Indeed.com**.
-- 🏆 Proud creator of several innovative projects like [BuddyAI](https://buddyai.org), [Tunnels.gg](https://tunnels.gg), and [Hashmap.me](https://hashmap.me).
+- 🏆 Proud creator of several innovative projects like [Teatime](https://itsteatime.app), [BuddyAI](https://buddyai.org), [Tunnels.gg](https://tunnels.gg), and [Hashmap.me](https://hashmap.me).
 - 🎓 B.S. in Computer Science from **Western Michigan University**.
 - 🌟 Passionate about creating software that solves real-world problems and makes a meaningful impact on people's lives.
 
 ---
 
 ## 🛠️ Projects & Contributions
+
+### [Teatime](https://itsteatime.app)
+Get a second opinion on your texts with Teatime. Dive into real-time text drama, follow anonymous conversations, and contribute your insights.
 
 ### [BuddyAI](https://buddyai.org)
 A personal AI companion providing comfort through human-like conversations.
